@@ -1,0 +1,55 @@
+
+1. Advocacy-Inquiry includes which of the following
+(select all that apply)
+
+
+==> An assertion, observation or statement
+==> A question
+
+
+2. Providing performance feedback from the simulation is the primary purpose of debriefing.   
+==> False
+
+
+3. Which of the following are evidence-based guidelines for simulation debriefing?
+==> The INACSL Standards of Best Practice: Debriefing
+
+
+4. Which of the following are recognized methods of simulation debriefing? (Select all that apply)
+
+
+==> Debriefing with Good Judgment
+==> Debriefing for Meaningful Learning
+==> Plus-Delta
+==> PEARLS
+
+
+5. Debriefing with Good Judgement© and Debriefing for Meaningful Learning are theoretically-derived methods of debriefing.
+==> True
+
+
+6. Healthcare simulation debriefing evolved from which other types of debriefing? (Select all that apply)
+
+
+==> Debriefing after search and rescue events.
+==> Briefs before and after airline flights.
+==> Debriefing following military exercises.
+==> Traumatic event follow-up.
+
+
+7. PEARLS debriefing uses a blended approach of three educational strategies.
+==> True
+
+
+8. Socratic questions always include the words who, what, where, when, how 
+==> False
+
+
+9. Research has demonstrated that there is little learning during debriefing beyond what the learner gained by participating in the healthcare simulation.  
+==> False
+
+
+10. Which of the following statements used with the NLN Guide to Critical Conversations? (Check All that apply)
+==> You did well with that patient. I saw you paid close attention when they were getting up the first time and your eyes looked concerned. What were you worried about?
+
+

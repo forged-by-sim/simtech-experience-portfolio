@@ -1,0 +1,50 @@
+
+1. Standards provide educators, clinicians, and researchers with the best practices to design, conduct, and evaluate simulation-based experiences.
+==> True
+
+
+2. The following are INACSL Standards of Best Practice: Simulation. (Select all that apply)
+
+
+==> Outcomes and Objectives 
+==> Facilitation
+==> Simulation Design
+
+
+3. Cueing is defined as:
+==> information provided to help participants progress through the scenario.
+
+
+4. The primary focus of debriefing is to:
+==> improve future performance.
+
+
+5. The INACSL Standard of Best Practice: Simulation Design recommends pilot testing of new scenarios before full implementation.
+==> True
+
+
+6. Outcomes and objectives should be communicated to the participant in the: 
+==> prework, prebrief, and debrief.
+
+
+7. During prebriefing, the facilitator describes the fiction contract. The main purpose is to:
+==> acknowledgement that the experience is simulated.
+
+
+8. The level of evaluation which measures progression toward achieving objectives and outcomes is: 
+==> formative
+
+
+9. Common concepts for the development of interprofessional simulation for education include: (Select all that apply)
+
+
+==> roles and responsibilities.
+==> teamwork.
+==> communication.
+==> leadership.
+
+
+10. The INACSL Standard of Best Practice: Simulation Operations requires systems and infrastructure to support and maintain operations of simulation-based education programs.
+==>True
+
+

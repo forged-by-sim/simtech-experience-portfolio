@@ -1,0 +1,38 @@
+1. The terms actor and SP may be used interchangeably. 
+==> False
+
+
+2. SPs can provide feedback to learners from a patient perspective. 
+==> True 
+
+
+3. SPs can be trained to reproduce the simulation for multiple learners.
+==> True
+
+
+4. The ASPE Standards of Best Practice are intended to be used in conjunction with the INACSL Standards of Best Practice: Simulation.
+==> True 
+
+
+5. SP cases have multiple components that reflect the different users of the case.
+==> True
+
+
+6. SPs can portray the same patient at various points in time to provide learners with continuity of practice experiences.
+==> True
+
+
+7. SPs can lend authenticity to manikin-based simulations by portraying family members, bystanders, or the voice of the patient.
+==> True
+
+
+8. Portraying roles, giving feedback, and completing assessment instruments are mutually exclusive skills, which is why they are three separate principles in the ASPE Standards of Best Practice.
+==> False
+
+
+9. In formative activities where standardization may not play an important role in the session design, SPs can respond to the learner with more flexibility.
+==> True
+
+
+10. SP programs with just a few SPs and one educator who also has other responsibilities do not have the same program management responsibilities as large programs with many SPs and several people dedicated to SP program management.
+==> False 
