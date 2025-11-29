@@ -49,6 +49,58 @@ This repository serves as:
 
 ---
 
+🗂️ Simulation Operations – Admin Experience
+
+This repository documents the administrative and operational side of simulation technology—often invisible, yet mission-critical. It captures real-world responsibilities I handled as a Program Coordinator at the Simulation and Innovation in Medical Education department at a university-affiliated School of Medicine.
+
+---
+
+📄 Job Description
+
+📁 job-description/
+
+Includes a role summary based on my responsibilities as Program Coordinator. These documents outline my scope of work, including:
+
+Managing prehospital training registration
+
+Database entry and e-card processing
+
+Instructor credential tracking
+
+Interfacing with AHA systems and simulation stakeholders
+
+Multi-site coordination and logistical support
+
+This job description underpins all other documentation in this repo and contextualizes the operational workflows I supported and led.
+
+---
+
+📝 Performance Evaluations
+
+📁 evaluations-performance-docs/
+
+A redacted PDF showing a redacted performance review highlighting supervisor feedback, organizational strengths, and ability to manage simulation logistics under pressure. This includes:
+
+Professionalism & communication
+
+Scheduling & data tracking
+
+Collaboration across simulation tech, instructors, and administrators
+
+Event coordination and stakeholder reporting
+
+These evaluations provide concrete, third-party feedback from leadership and colleagues.
+
+---
+
+🧭 Repo Purpose
+
+This repo is part of a broader SimTech Experience Portfolio that highlights hands-on experience in simulation operations across both technical and administrative domains. While most GitHub portfolios showcase code, this space captures the non-code workflows that keep simulation centers running—from scheduling and credentialing to stakeholder communication and quality control.
+
+This repository is one piece of a broader effort to bridge my simulation operations background with XR, software, and immersive training engineering.
+
+---
+
 📌 **Related Repos** (coming soon):  
 
 📦 `course-xr-aframe-unity`  
