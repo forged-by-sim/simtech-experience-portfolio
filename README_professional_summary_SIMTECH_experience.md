@@ -23,10 +23,9 @@ Each image is captioned and organized to reflect real operations experience in m
 
 ---
 
-## 🎓 Essentials in Clinical Simulations (GWU)
+## 🎓 Essentials in Clinical Simulations 
 
-📁 [`gw-essentials-simulation-course/`](./gw-essentials-simulation-course)  
-Coursework from the *Essentials in Clinical Simulations Across the Health Professions* program, completed via Coursera and George Washington University.  
+📁 [`projects-summative-assessment-simops/`](./projects-summative-assessment-simops)   
 Focus areas include:
 
 - Scenario design  
@@ -101,12 +100,4 @@ This repository is one piece of a broader effort to bridge my simulation operati
 
 ---
 
-📌 **Related Repos** (coming soon):  
-
-📦 `course-xr-aframe-unity`  
-💻 `course-coding-c-cpp`  
-📊 `course-matlab`  
-🗂️ `course-sql`  
-🐍 `course-python`  
-🔧 `course-git-github`
 

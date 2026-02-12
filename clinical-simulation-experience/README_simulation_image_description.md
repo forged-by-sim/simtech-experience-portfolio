@@ -1,7 +1,7 @@
 🧾 Clinical Simulation Operations – Image Documentation
 
 ✅Filename:
-OR_setup_intubated_manikin_blue_drape.jpg	
+or_setup_intubated_manikin_blue_drape.jpg	
 
 📝Caption:
 Manikin prepped for OR scenario with blue drapes and ventilation mask. High-fidelity manikin prepped in a simulated operating room with intubation setup, blue sterile drapes, and anesthesia monitoring equipment.
