@@ -13,4 +13,3 @@ Includes the official job description from my time as Program Coordinator at the
 This job description underpins all other documentation in this repo and contextualizes the operational workflows I supported and led.
 
 
-![pdf](Program Coordinator_Job Description_redacted.pdf)
