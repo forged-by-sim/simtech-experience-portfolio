@@ -13,4 +13,3 @@ All personally identifiable information and institutional affiliations have been
 
 ✅ Evaluations reflecting consistent excellence in simulation operations and team collaboration
 
-![pdf](Evaluations Performance Docs_redacted.pdf) 
