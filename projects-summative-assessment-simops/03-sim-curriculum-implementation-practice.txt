@@ -1,3 +1,5 @@
+Summative Assessment: Implementing Simulation in the Curriculum 
+
 
 1. Which of the following would yield results consistent with Kirkpatrick’s level 1?
 ==> Physicians complete a satisfaction survey after participating in a hands-on simulation based training activity.
