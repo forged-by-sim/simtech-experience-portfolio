@@ -58,19 +58,9 @@ This repository documents the administrative and operational side of simulation 
 
 📁 job-description/
 
-Includes a role summary based on my responsibilities as Program Coordinator. These documents outline my scope of work, including:
+Includes a role summary based on my responsibilities as Program Coordinator, Simulation Technologist/ Technician, and Instructor roles.
 
-Managing prehospital training registration
-
-Database entry and e-card processing
-
-Instructor credential tracking
-
-Interfacing with AHA systems and simulation stakeholders
-
-Multi-site coordination and logistical support
-
-This job description underpins all other documentation in this repo and contextualizes the operational workflows I supported and led.
+These job descriptions underpin all other documentation in this repo and contextualizes the operational workflows I supported and led.
 
 ---
 
