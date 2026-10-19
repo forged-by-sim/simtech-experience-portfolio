@@ -6,7 +6,7 @@
 * **I/ITSEC 2025 (Interservice/Industry Training, Simulation and Education Conference)**
 
 <p align="center">
-  <img src="images/2025_iitsec_sign.png" alt="I/ITSEC Conference Entrance" width="600"/>
+  <img src="attendee/2025_iitsec_sign.png" alt="I/ITSEC Conference Entrance" width="600"/>
 </p>
 
 ### Attended Technical & Professional Sessions
@@ -16,8 +16,8 @@
 * **Evolution of Military Healthcare Training – Senior Leader Perspectives** (Policy, readiness, & military-civ medical alignment)
 
 <p align="center">
-  <img src="images/2025_iitsec_ssh_healthcare_sim_slide.png" alt="SSH The Future of Healthcare Simulation Presentation" width="450"/>
-  <img src="images/2025_iitsec_special_events_schedule.png" alt="I/ITSEC Special Events Schedule" width="350"/>
+  <img src="attendee/2025_iitsec_ssh_healthcare_sim_slide.png" alt="SSH The Future of Healthcare Simulation Presentation" width="450"/>
+  <img src="attendee/2025_iitsec_special_events_schedule.png" alt="I/ITSEC Special Events Schedule" width="350"/>
 </p>
 
 ---
